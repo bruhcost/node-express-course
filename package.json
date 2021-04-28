@@ -1,0 +1,11 @@
+{
+  "name": "node-express-course",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/bruhcost/node-express-course.git",
+  "author": "bruhwolf <b.brunocosta@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
